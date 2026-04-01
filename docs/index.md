@@ -3,23 +3,21 @@
 layout: home
 
 hero:
-  name: "Cisco-Zápisník"
-  text: "Web pro ty, co studují Cisco. Najdete zde jak pár Zápisků z CCNA 1(protože jsem si jenkrát moc nedělal) tak z CCNA 2. Bude tde vypsané jen to nejhlavnější."
-  tagline: My great project tagline
+  name: "Cisco Zápisník"
+  text: "Matěj Hajný"
+  tagline: Web pro ty, co studují Cisco.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Úvod
+      link: /README
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Zdroje na githubu
+      link: https://github.com/LowLightCZ1/Cisco-Zapisnik
 
 features:
-  - title: Feature A
+  - title: CCNA1
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: CCNA2
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
